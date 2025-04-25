@@ -1,0 +1,33 @@
+{
+    "nome": "Maria",
+    "idade": 28,
+    "cidade": "São Paulo"
+}
+
+
+{
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "ano": 1899
+}
+
+Oi!
+Tudo bem?
+Podemos conversar?
+
+esse é meu arquivo
+essa é outra linha do arquivo
+
+[
+    {
+        "nome": "cadeira",
+        "preco": "200"
+    },
+    {
+        "nome": "mesa",
+        "preco": "300"
+    },
+    {
+        "nome": "relogio",
+        "preco": "40"
+    }
